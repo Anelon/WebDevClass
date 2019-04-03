@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	/*background-image: url("http://devhumor.com/content/uploads/images/June2018/thanks_javascript.png");*/
+	background-size: 50vw;
+    background-repeat: no-repeat;
+    color: darkorange;
+}
+.left {
+	float:left;
+}
